@@ -10,7 +10,7 @@
 
 
 
-- [ ] <em>Dario Seyb, Eugene d’Eon, Benedikt Bitterli, Wojciech Jarosz</em>
+<p><em>Dario Seyb, Eugene d’Eon, Benedikt Bitterli, Wojciech Jarosz</em></p>
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-- [x] <em>Bailey Miller, Rohan Sawhney, Keenan Crane, Ioannis Gkioulekas</em>
+<p><em>Bailey Miller, Rohan Sawhney, Keenan Crane, Ioannis Gkioulekas</em></p>
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-- [ ] <em>Josua Sassen, Henrik Schumacher, Martin Rumpf, Keenan Crane</em>
+<p><em>Josua Sassen, Henrik Schumacher, Martin Rumpf, Keenan Crane</em></p>
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-- [x] <em>Jiong Chen, Florian Schäfer, Mathieu Desbrun</em>
+<p><em>Jiong Chen, Florian Schäfer, Mathieu Desbrun</em></p>
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-- [ ] <em>Jacob Spainhour, David Gunderman, Kenneth Weiss</em>
+<p><em>Jacob Spainhour, David Gunderman, Kenneth Weiss</em></p>
 
 
 
@@ -70,7 +70,7 @@
 
 
 
-- [x] <em>Yuichi Hirose, Mark Gillespie, Angelica M. Bonilla Fominaya, James McCann</em>
+<p><em>Yuichi Hirose, Mark Gillespie, Angelica M. Bonilla Fominaya, James McCann</em></p>
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-- [ ] <em>Kenneth Chen, Thomas Wan, Nathan Matsuda, Ajit Ninan, Alexandre Chapiro, Qi Sun</em>
+<p><em>Kenneth Chen, Thomas Wan, Nathan Matsuda, Ajit Ninan, Alexandre Chapiro, Qi Sun</em></p>
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-- [ ] <em>Longwen Zhang, Ziyu Wang, Qixuan Zhang, Qiwei Qiu, Anqi Pang, Haoran Jiang, Wei Yang, Lan Xu, Jingyi Yu</em>
+<p><em>Longwen Zhang, Ziyu Wang, Qixuan Zhang, Qiwei Qiu, Anqi Pang, Haoran Jiang, Wei Yang, Lan Xu, Jingyi Yu</em></p>
 
 
 
@@ -94,7 +94,7 @@
 
 
 
-- [ ] <em>Kai He, Kaixin Yao, Qixuan Zhang, Jingyi Yu, Lingjie Liu, Lan Xu</em>
+<p><em>Kai He, Kaixin Yao, Qixuan Zhang, Jingyi Yu, Lingjie Liu, Lan Xu</em></p>
 
 
 
@@ -102,7 +102,7 @@
 
 
 
-- [x] <em>Yuehao Wang, Chaoyi Wang, Bingchen Gong, Tianfan Xue</em>
+<p><em>Yuehao Wang, Chaoyi Wang, Bingchen Gong, Tianfan Xue</em></p>
 
 
 
@@ -110,7 +110,7 @@
 
 
 
-- [ ] <em>​​Aviv Segall, Jing Ren, Amir Vaxman, Olga Sorkine-Hornung</em>
+<p><em>​​Aviv Segall, Jing Ren, Amir Vaxman, Olga Sorkine-Hornung</em></p>
 
 
 
@@ -118,7 +118,7 @@
 
 
 
-- [ ] <em>​​Gianpaolo Palma, Narges Pourjafarian, Jürgen Steimle, Paolo Cignoni</em>
+<p><em>​​Gianpaolo Palma, Narges Pourjafarian, Jürgen Steimle, Paolo Cignoni</em></p>
 
 
 
@@ -126,7 +126,7 @@
 
 
 
-- [ ] <em>Daniel Duckworth, Peter Hedman, Christian Reiser, Peter Zhizhin, Jean-François Thibert, Mario Lučić, Richard Szeliski, Jonathan T. Barron</em>
+<p><em>Daniel Duckworth, Peter Hedman, Christian Reiser, Peter Zhizhin, Jean-François Thibert, Mario Lučić, Richard Szeliski, Jonathan T. Barron</em></p>
 
 
 
@@ -134,7 +134,7 @@
 
 
 
-- [ ] <em>Christian Hafner, Mickaël Ly, Chris Wojtan</em>
+<p><em>Christian Hafner, Mickaël Ly, Chris Wojtan</em></p>
 
 
 
@@ -142,7 +142,7 @@
 
 
 
-- [ ] <em>Mark Gillespie, Denise Yang, Mario Botsch, Keenan Crane</em>
+<p><em>Mark Gillespie, Denise Yang, Mario Botsch, Keenan Crane</em></p>
 
 
 
@@ -150,7 +150,7 @@
 
 
 
-- [ ] <em>Ryan Capouellez, Denis Zorin</em>
+<p><em>Ryan Capouellez, Denis Zorin</em></p>
 
 
 
@@ -158,7 +158,7 @@
 
 
 
-- [ ] <em>Jessica Lee, Nicholas Jennings, Varun Srivastava, Ren Ng</em>
+<p><em>Jessica Lee, Nicholas Jennings, Varun Srivastava, Ren Ng</em></p>
 
 
 
@@ -178,7 +178,7 @@
 
 
 
-- [ ] <em>Chen Cao, Yanlin Weng, Stephen Lin, Kun Zhou</em>
+<p><em>Chen Cao, Yanlin Weng, Stephen Lin, Kun Zhou</em></p>
 
 
 
@@ -190,7 +190,7 @@
 
 
 
-- [ ] <em>Andreas Velten, Di Wu, Adrián Jarabo, Belén Masiá, Christopher Barsi, Chinmaya Joshi, Everett Lawson, Moungi Bawendi, Diego Gutierrez, Ramesh Raskar</em>
+<p><em>Andreas Velten, Di Wu, Adrián Jarabo, Belén Masiá, Christopher Barsi, Chinmaya Joshi, Everett Lawson, Moungi Bawendi, Diego Gutierrez, Ramesh Raskar</em></p>
 
 
 
@@ -202,7 +202,7 @@
 
 
 
-- [ ] <em>Alec Jacobson, Ladislav Kavan, Olga Sorkine-Hornung</em>
+<p><em>Alec Jacobson, Ladislav Kavan, Olga Sorkine-Hornung</em></p>
 
 
 
@@ -214,4 +214,4 @@
 
 
 
-- [ ] <em>Mathias Eitz, James Hays, Marc Alexa</em>
+<p><em>Mathias Eitz, James Hays, Marc Alexa</em></p>
