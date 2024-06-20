@@ -37,3 +37,21 @@
 [submodule "cvpr/2024/Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation"]
 	path = cvpr/2024/Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
 	url = git@github.com:rbgirshick/rcnn.git
+[submodule "tro/RACER: Rapid Collaborative Exploration with a Decentralized Multi-UAV System"]
+	path = tro/RACER: Rapid Collaborative Exploration with a Decentralized Multi-UAV System
+	url = git@github.com:SYSU-STAR/RACER.git
+[submodule "tro/ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM"]
+	path = tro/ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
+	url = git@github.com:UZ-SLAMLab/ORB_SLAM3.git
+[submodule "tro/Distributed Certifiably Correct Pose-Graph Optimization"]
+	path = tro/Distributed Certifiably Correct Pose-Graph Optimization
+	url = git@github.com:mit-acl/dpgo.git
+[submodule "tro/Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments"]
+	path = tro/Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments
+	url = git@github.com:HKUST-Aerial-Robotics/Teach-Repeat-Replan.git
+[submodule "tro/Deep Drone Racing: From Simulation to Reality With Domain Randomization"]
+	path = tro/Deep Drone Racing: From Simulation to Reality With Domain Randomization
+	url = git@github.com:uzh-rpg/sim2real_drone_racing.git
+[submodule "tro/VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator"]
+	path = tro/VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator
+	url = git@github.com:HKUST-Aerial-Robotics/VINS-Mono.git
