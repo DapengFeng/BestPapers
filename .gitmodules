@@ -1,6 +1,6 @@
 [submodule "siggraph/2024/zombie"]
-	path = siggraph/2024/zombie
+	path = siggraph/2024/Walkin’ Robin: Walk on Stars With Robin Boundary Conditions
 	url = git@github.com:rohan-sawhney/zombie.git
 [submodule "siggraph/2024/mfs-chol"]
-	path = siggraph/2024/mfs-chol
+	path = siggraph/2024/Lightning-Fast Method of Fundamental Solutions
 	url = https://gitlab.inria.fr/geomerix/public/mfs-chol.git
