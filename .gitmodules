@@ -70,3 +70,12 @@
 [submodule "cvpr/2023/DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation"]
 	path = cvpr/2023/DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
 	url = git@github.com:google/dreambooth.git
+[submodule "siggraph/2023/Split-Lohmann Multifocal Displays"]
+	path = siggraph/2023/Split-Lohmann Multifocal Displays
+	url = git@github.com:Image-Science-Lab-cmu/SplitLohmann.git
+[submodule "siggraph/2023/Globally Consistent Normal Orientation for Point Clouds by Regularizing the Winding-number Field"]
+	path = siggraph/2023/Globally Consistent Normal Orientation for Point Clouds by Regularizing the Winding-number Field
+	url = git@github.com:Xrvitd/GCNO.git
+[submodule "siggraph/2023/3D Gaussian Splatting for Real-time Radiance Field Rendering"]
+	path = siggraph/2023/3D Gaussian Splatting for Real-time Radiance Field Rendering
+	url = git@github.com:graphdeco-inria/gaussian-splatting.git
