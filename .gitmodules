@@ -4,3 +4,9 @@
 [submodule "siggraph/2024/mfs-chol"]
 	path = siggraph/2024/Lightning-Fast Method of Fundamental Solutions
 	url = https://gitlab.inria.fr/geomerix/public/mfs-chol.git
+[submodule "siggraph/2024/Solid Knitting"]
+	path = siggraph/2024/Solid Knitting
+	url = git@github.com:textiles-lab/solid-knitting-ui.git
+[submodule "siggraph/2024/Bilateral Guided Radiance Field Processing"]
+	path = siggraph/2024/Bilateral Guided Radiance Field Processing
+	url = git@github.com:yuehaowang/bilarf.git
