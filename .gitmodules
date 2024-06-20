@@ -55,3 +55,18 @@
 [submodule "tro/VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator"]
 	path = tro/VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator
 	url = git@github.com:HKUST-Aerial-Robotics/VINS-Mono.git
+[submodule "cvpr/2023/Visual Programming: Compositional visual reasoning without training"]
+	path = cvpr/2023/Visual Programming: Compositional visual reasoning without training
+	url = git@github.com:allenai/visprog.git
+[submodule "cvpr/2023/Planning-oriented Autonomous Driving"]
+	path = cvpr/2023/Planning-oriented Autonomous Driving
+	url = git@github.com:OpenDriveLab/UniAD.git
+[submodule "cvpr/2023/DynIBaR: Neural Dynamic Image-Based Rendering"]
+	path = cvpr/2023/DynIBaR: Neural Dynamic Image-Based Rendering
+	url = git@github.com:google/dynibar.git
+[submodule "cvpr/2023/3D Registration with Maximal Cliques"]
+	path = cvpr/2023/3D Registration with Maximal Cliques
+	url = git@github.com:zhangxy0517/3D-Registration-with-Maximal-Cliques.git
+[submodule "cvpr/2023/DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation"]
+	path = cvpr/2023/DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
+	url = git@github.com:google/dreambooth.git
