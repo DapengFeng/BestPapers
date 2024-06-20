@@ -79,3 +79,12 @@
 [submodule "siggraph/2023/3D Gaussian Splatting for Real-time Radiance Field Rendering"]
 	path = siggraph/2023/3D Gaussian Splatting for Real-time Radiance Field Rendering
 	url = git@github.com:graphdeco-inria/gaussian-splatting.git
+[submodule "siggraph/2023/Word-as-image for Semantic Typography"]
+	path = siggraph/2023/Word-as-image for Semantic Typography
+	url = git@github.com:Shiriluz/Word-As-Image.git
+[submodule "siggraph/2023/Learning Physically Simulated Tennis Skills From Broadcast Videos"]
+	path = siggraph/2023/Learning Physically Simulated Tennis Skills From Broadcast Videos
+	url = git@github.com:nv-tlabs/vid2player3d.git
+[submodule "siggraph/2023/Min-Deviation-Flow in Bi-directed Graphs for T-Mesh Quantization"]
+	path = siggraph/2023/Min-Deviation-Flow in Bi-directed Graphs for T-Mesh Quantization
+	url = git@github.com:cgg-bern/libSatsuma.git
