@@ -10,3 +10,12 @@
 [submodule "siggraph/2024/Bilateral Guided Radiance Field Processing"]
 	path = siggraph/2024/Bilateral Guided Radiance Field Processing
 	url = git@github.com:yuehaowang/bilarf.git
+[submodule "tro/Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems"]
+	path = tro/Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems
+	url = git@github.com:MIT-SPARK/Kimera-Multi.git
+[submodule "tro/Active Learning of Dynamics for Data-Driven Control Using Koopman Operators"]
+	path = tro/Active Learning of Dynamics for Data-Driven Control Using Koopman Operators
+	url = git@github.com:i-abr/active-learning-koopman.git
+[submodule "tro/ORB-SLAM: A Versatile and Accurate Monocular SLAM System"]
+	path = tro/ORB-SLAM: A Versatile and Accurate Monocular SLAM System
+	url = git@github.com:raulmur/ORB_SLAM.git
