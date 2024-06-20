@@ -19,3 +19,21 @@
 [submodule "tro/ORB-SLAM: A Versatile and Accurate Monocular SLAM System"]
 	path = tro/ORB-SLAM: A Versatile and Accurate Monocular SLAM System
 	url = git@github.com:raulmur/ORB_SLAM.git
+[submodule "cvpr/2024/Rich Human Feedback for Text-to-Image Generation"]
+	path = cvpr/2024/Rich Human Feedback for Text-to-Image Generation
+	url = git@github.com:google-research-datasets/richhf-18k.git
+[submodule "cvpr/2024/pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction"]
+	path = cvpr/2024/pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction
+	url = git@github.com:dcharatan/pixelsplat.git
+[submodule "cvpr/2024/Mip-Splatting: Alias-free 3D Gaussian Splatting"]
+	path = cvpr/2024/Mip-Splatting: Alias-free 3D Gaussian Splatting
+	url = git@github.com:autonomousvision/mip-splatting.git
+[submodule "cvpr/2024/BioCLIP: A Vision Foundation Model for the Tree of Life"]
+	path = cvpr/2024/BioCLIP: A Vision Foundation Model for the Tree of Life
+	url = git@github.com:Imageomics/bioclip.git
+[submodule "cvpr/2024/SpiderMatch: 3D Shape Matching with Global Optimality and Geometric Consistency"]
+	path = cvpr/2024/SpiderMatch: 3D Shape Matching with Global Optimality and Geometric Consistency
+	url = git@github.com:paul0noah/spider-match.git
+[submodule "cvpr/2024/Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation"]
+	path = cvpr/2024/Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
+	url = git@github.com:rbgirshick/rcnn.git
