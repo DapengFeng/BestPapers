@@ -136,3 +136,21 @@
 [submodule "icra/2024/Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality"]
 	path = icra/2024/Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality
 	url = git@github.com:arplaboratory/mri_ros_public.git
+[submodule "icra/2023/DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation"]
+	path = icra/2023/DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation
+	url = git@github.com:PKU-EPIC/DexGraspNet.git
+[submodule "icra/2023/Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation"]
+	path = icra/2023/Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation
+	url = git@github.com:Alvinosaur/opa.git
+[submodule "icra/2023/Interactive Object Segmentation in 3D Point Clouds"]
+	path = icra/2023/Interactive Object Segmentation in 3D Point Clouds
+	url = git@github.com:theodorakontogianni/InterObject3D.git
+[submodule "icra/2023/Learning-Based Initialization of Trajectory Optimization for Path-Following Problems of Redundant Manipulators"]
+	path = icra/2023/Learning-Based Initialization of Trajectory Optimization for Path-Following Problems of Redundant Manipulators
+	url = git@github.com:MinsungYoon/RL-ITG.git
+[submodule "icra/2023/Grounding Language with Visual Affordances Over Unstructured Data"]
+	path = icra/2023/Grounding Language with Visual Affordances Over Unstructured Data
+	url = git@github.com:mees/hulc2.git
+[submodule "icra/2023/GMCR: Graph-Based Maximum Consensus Estimation for Point Cloud Registration"]
+	path = icra/2023/GMCR: Graph-Based Maximum Consensus Estimation for Point Cloud Registration
+	url = git@github.com:RoboTac-BMW/GMCR.git
