@@ -88,3 +88,51 @@
 [submodule "siggraph/2023/Min-Deviation-Flow in Bi-directed Graphs for T-Mesh Quantization"]
 	path = siggraph/2023/Min-Deviation-Flow in Bi-directed Graphs for T-Mesh Quantization
 	url = git@github.com:cgg-bern/libSatsuma.git
+[submodule "icra/2024/Goal Masked Diffusion Policies for Unified Navigation and Exploration"]
+	path = icra/2024/Goal Masked Diffusion Policies for Unified Navigation and Exploration
+	url = git@github.com:robodhruv/visualnav-transformer.git
+[submodule "icra/2024/Open X-Embodiment: Robotic Learning Datasets and RT-X"]
+	path = icra/2024/Open X-Embodiment: Robotic Learning Datasets and RT-X
+	url = git@github.com:google-deepmind/open_x_embodiment.git
+[submodule "icra/2024/TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers"]
+	path = icra/2024/TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers
+	url = git@github.com:TinyMPC/TinyMPC.git
+[submodule "icra/2024/POLITE: Preferences Combined with Highlights in Reinforcement Learning"]
+	path = icra/2024/POLITE: Preferences Combined with Highlights in Reinforcement Learning
+	url = git@github.com:holken/polite.git
+[submodule "icra/2024/A Trajectory-based Flight Assistive System for Novice Pilots in Drone Racing Scenario"]
+	path = icra/2024/A Trajectory-based Flight Assistive System for Novice Pilots in Drone Racing Scenario
+	url = git@github.com:ZJU-FAST-Lab/Assistive-Racing.git
+[submodule "icra/2024/Under Pressure: Learning-Based Analog Gauge Reading in the Wild"]
+	path = icra/2024/Under Pressure: Learning-Based Analog Gauge Reading in the Wild
+	url = git@github.com:ethz-asl/analog_gauge_reader.git
+[submodule "icra/2024/VLFM: Vision-Language Frontier Maps for Semantic Navigation"]
+	path = icra/2024/VLFM: Vision-Language Frontier Maps for Semantic Navigation
+	url = git@github.com:bdaiinstitute/vlfm.git
+[submodule "icra/2024/CoFRIDA: Self-Supervised Fine-Tuning for Human-Robot Co-Painting"]
+	path = icra/2024/CoFRIDA: Self-Supervised Fine-Tuning for Human-Robot Co-Painting
+	url = git@github.com:cmubig/Frida.git
+[submodule "icra/2024/MateRobot: Material Recognition in Wearable Robotics for People with Visual Impairments"]
+	path = icra/2024/MateRobot: Material Recognition in Wearable Robotics for People with Visual Impairments
+	url = git@github.com:JunweiZheng93/MATERobot.git
+[submodule "icra/2024/Efficient and Accurate Transformer-Based 3D Shape Completion and Reconstruction of Fruits for Agricultural Robots"]
+	path = icra/2024/Efficient and Accurate Transformer-Based 3D Shape Completion and Reconstruction of Fruits for Agricultural Robots
+	url = git@github.com:PRBonn/TCoRe.git
+[submodule "icra/2024/CalliRewrite: Recovering Handwriting Behaviors from Calligraphy Images without Supervision"]
+	path = icra/2024/CalliRewrite: Recovering Handwriting Behaviors from Calligraphy Images without Supervision
+	url = git@github.com:LoYuXr/CalliRewrite.git
+[submodule "icra/2024/Universal Visual Decomposer: Long-Horizon Manipulation Made Easy"]
+	path = icra/2024/Universal Visual Decomposer: Long-Horizon Manipulation Made Easy
+	url = git@github.com:zcczhang/UVD.git
+[submodule "icra/2024/SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking"]
+	path = icra/2024/SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking
+	url = git@github.com:aron-lin/seqtrack3d.git
+[submodule "icra/2024/Co-Design Optimisation of Morphing Topology and Control of Winged Drones"]
+	path = icra/2024/Co-Design Optimisation of Morphing Topology and Control of Winged Drones
+	url = git@github.com:ami-iit/paper_bergonti_2024_icra_codesign-morphing-drones.git
+[submodule "icra/2024/FC-Planner: A Skeleton-guided Planning Framework for Fast Aerial Coverage of Complex 3D Scenes"]
+	path = icra/2024/FC-Planner: A Skeleton-guided Planning Framework for Fast Aerial Coverage of Complex 3D Scenes
+	url = git@github.com:HKUST-Aerial-Robotics/FC-Planner.git
+[submodule "icra/2024/Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality"]
+	path = icra/2024/Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality
+	url = git@github.com:arplaboratory/mri_ros_public.git
