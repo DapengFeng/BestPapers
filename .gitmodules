@@ -193,3 +193,12 @@
 [submodule "siggraph/2022/Grid-free Monte Carlo for PDEs With Spatially Varying Coefficients"]
 	path = siggraph/2022/Grid-free Monte Carlo for PDEs With Spatially Varying Coefficients
 	url = git@github.com:rohan-sawhney/zombie.git
+[submodule "computer vision/eccv/2020/NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis"]
+	path = computer vision/eccv/2020/NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+	url = git@github.com:bmild/nerf.git
+[submodule "computer vision/eccv/2020/Towards Streaming Perception"]
+	path = computer vision/eccv/2020/Towards Streaming Perception
+	url = git@github.com:mtli/sAP.git
+[submodule "computer vision/eccv/RAFT: Recurrent All-Pairs Field Transforms for Optical Flow"]
+	path = computer vision/eccv/2020/RAFT: Recurrent All-Pairs Field Transforms for Optical Flow
+	url = git@github.com:princeton-vl/RAFT.git

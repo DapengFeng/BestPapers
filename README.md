@@ -5,6 +5,6 @@
 # git clone
 git clone git@github.com:DapengFeng/BestPapers.git
 
-# Speical Repository
+# Special Repository
 git submodule update --init --recursive PATH/TO/REPOSITORY
 ```
