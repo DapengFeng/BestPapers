@@ -44,21 +44,11 @@ and optimizing diverse models, making them more robust to adversarial attacks.
 
 Daniel J. Butler, Jonas Wulff, Garrett B. Stanley & Michael J. Black
 
-```
-For inspiring an unusually broad community to invest research efforts on developing
-novel solutions to a computer vision problem, which remains challenging today
-```
-
 ## Koenderink Prize (test of time)
 
 ##### Indoor Segmentation and Support Inference from RGBD Images
 
 Nathan Silberman, Derek Hoiem, Pushmeet Kohli & Rob Fergus
-
-```
-For inspiring an unusually broad community to invest research efforts on developing
-novel solutions to a computer vision problem, which remains challenging today
-```
 
 ## PAMI Mark Everingham Prize
 
@@ -77,9 +67,7 @@ PASCAL VOC datasets and challenges.
 The prize is awarded at ICCV and ECCV. The winners are selected by
 the PAMI-TC awards committee.
 
-
 ## Best Demo Award
-
 
 ##### Using a Smartphone for Augmented Reality in a Classroom
 

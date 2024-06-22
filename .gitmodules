@@ -202,3 +202,9 @@
 [submodule "computer vision/eccv/RAFT: Recurrent All-Pairs Field Transforms for Optical Flow"]
 	path = computer vision/eccv/2020/RAFT: Recurrent All-Pairs Field Transforms for Optical Flow
 	url = git@github.com:princeton-vl/RAFT.git
+[submodule "computer vision/eccv/2022/Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields"]
+	path = computer vision/eccv/2022/Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields
+	url = git@github.com:garvita-tiwari/PoseNDF.git
+[submodule "computer vision/eccv/2022/On the Versatile Uses of Partial Distance Correlation in Deep Learning"]
+	path = computer vision/eccv/2022/On the Versatile Uses of Partial Distance Correlation in Deep Learning
+	url = git@github.com:zhenxingjian/Partial_Distance_Correlation.git
