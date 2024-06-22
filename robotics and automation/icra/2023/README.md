@@ -29,9 +29,7 @@ Please see below a list of 'Best Paper' nominees, along with the time of their o
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -94,9 +92,7 @@ ICRA 2023 Outstanding Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -159,9 +155,7 @@ ICRA 2023 Outstanding Automation Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -224,9 +218,7 @@ ICRA 2023 Outstanding Student Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -283,9 +275,7 @@ ICRA 2023&nbsp;Outstanding&nbsp;Deployed Systems Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -348,9 +338,6 @@ Finalists:&nbsp;
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
 
 
 </div>
@@ -413,9 +400,7 @@ ICRA 2023 Outstanding&nbsp; Healthcare and Medical Robotics Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -478,9 +463,7 @@ ICRA 2023 Outstanding&nbsp; Locomotion Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -543,9 +526,7 @@ ICRA 2023 Outstanding Manipulation Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -608,9 +589,7 @@ ICRA 2023 Outstanding&nbsp;Mechanisms and Design Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -673,9 +652,7 @@ ICRA 2023 Outstanding&nbsp;Multi-Robot Systems Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -738,9 +715,7 @@ ICRA 2023 Outstanding Navigation Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -803,9 +778,7 @@ ICRA 2023 Outstanding&nbsp; Physical Human-Robot Interaction Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -868,9 +841,7 @@ ICRA 2023 Outstanding Planning Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -933,9 +904,7 @@ ICRA 2023 Outstanding&nbsp;Robot Learning Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>
@@ -998,9 +967,7 @@ ICRA 2023 Outstanding&nbsp;Sensors and Perception Paper
 
 </article>
 
-<script>
-$script('https://themes.asp.events/_base/1-2-0/includes/javascripts/src/modules/pages/anchor.js?v=1');
-</script>
+
 
 
 </div>

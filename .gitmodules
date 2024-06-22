@@ -11,13 +11,13 @@
 	path = siggraph/2024/Bilateral Guided Radiance Field Processing
 	url = git@github.com:yuehaowang/bilarf.git
 [submodule "tro/Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems"]
-	path = tro/Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems
+	path = robotics and automation/tro/Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems
 	url = git@github.com:MIT-SPARK/Kimera-Multi.git
 [submodule "tro/Active Learning of Dynamics for Data-Driven Control Using Koopman Operators"]
-	path = tro/Active Learning of Dynamics for Data-Driven Control Using Koopman Operators
+	path = robotics and automation/tro/Active Learning of Dynamics for Data-Driven Control Using Koopman Operators
 	url = git@github.com:i-abr/active-learning-koopman.git
 [submodule "tro/ORB-SLAM: A Versatile and Accurate Monocular SLAM System"]
-	path = tro/ORB-SLAM: A Versatile and Accurate Monocular SLAM System
+	path = robotics and automation/tro/ORB-SLAM: A Versatile and Accurate Monocular SLAM System
 	url = git@github.com:raulmur/ORB_SLAM.git
 [submodule "cvpr/2024/Rich Human Feedback for Text-to-Image Generation"]
 	path = computer vision/cvpr/2024/Rich Human Feedback for Text-to-Image Generation
@@ -38,22 +38,22 @@
 	path = computer vision/cvpr/2024/Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
 	url = git@github.com:rbgirshick/rcnn.git
 [submodule "tro/RACER: Rapid Collaborative Exploration with a Decentralized Multi-UAV System"]
-	path = tro/RACER: Rapid Collaborative Exploration with a Decentralized Multi-UAV System
+	path = robotics and automation/tro/RACER: Rapid Collaborative Exploration with a Decentralized Multi-UAV System
 	url = git@github.com:SYSU-STAR/RACER.git
 [submodule "tro/ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM"]
-	path = tro/ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
+	path = robotics and automation/tro/ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 	url = git@github.com:UZ-SLAMLab/ORB_SLAM3.git
 [submodule "tro/Distributed Certifiably Correct Pose-Graph Optimization"]
-	path = tro/Distributed Certifiably Correct Pose-Graph Optimization
+	path = robotics and automation/tro/Distributed Certifiably Correct Pose-Graph Optimization
 	url = git@github.com:mit-acl/dpgo.git
 [submodule "tro/Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments"]
-	path = tro/Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments
+	path = robotics and automation/tro/Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments
 	url = git@github.com:HKUST-Aerial-Robotics/Teach-Repeat-Replan.git
 [submodule "tro/Deep Drone Racing: From Simulation to Reality With Domain Randomization"]
-	path = tro/Deep Drone Racing: From Simulation to Reality With Domain Randomization
+	path = robotics and automation/tro/Deep Drone Racing: From Simulation to Reality With Domain Randomization
 	url = git@github.com:uzh-rpg/sim2real_drone_racing.git
 [submodule "tro/VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator"]
-	path = tro/VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator
+	path = robotics and automation/tro/VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator
 	url = git@github.com:HKUST-Aerial-Robotics/VINS-Mono.git
 [submodule "cvpr/2023/Visual Programming: Compositional visual reasoning without training"]
 	path = computer vision/cvpr/2023/Visual Programming: Compositional visual reasoning without training
@@ -89,73 +89,73 @@
 	path = siggraph/2023/Min-Deviation-Flow in Bi-directed Graphs for T-Mesh Quantization
 	url = git@github.com:cgg-bern/libSatsuma.git
 [submodule "icra/2024/Goal Masked Diffusion Policies for Unified Navigation and Exploration"]
-	path = icra/2024/Goal Masked Diffusion Policies for Unified Navigation and Exploration
+	path = robotics and automation/icra/2024/Goal Masked Diffusion Policies for Unified Navigation and Exploration
 	url = git@github.com:robodhruv/visualnav-transformer.git
 [submodule "icra/2024/Open X-Embodiment: Robotic Learning Datasets and RT-X"]
-	path = icra/2024/Open X-Embodiment: Robotic Learning Datasets and RT-X
+	path = robotics and automation/icra/2024/Open X-Embodiment: Robotic Learning Datasets and RT-X
 	url = git@github.com:google-deepmind/open_x_embodiment.git
 [submodule "icra/2024/TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers"]
-	path = icra/2024/TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers
+	path = robotics and automation/icra/2024/TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers
 	url = git@github.com:TinyMPC/TinyMPC.git
 [submodule "icra/2024/POLITE: Preferences Combined with Highlights in Reinforcement Learning"]
-	path = icra/2024/POLITE: Preferences Combined with Highlights in Reinforcement Learning
+	path = robotics and automation/icra/2024/POLITE: Preferences Combined with Highlights in Reinforcement Learning
 	url = git@github.com:holken/polite.git
 [submodule "icra/2024/A Trajectory-based Flight Assistive System for Novice Pilots in Drone Racing Scenario"]
-	path = icra/2024/A Trajectory-based Flight Assistive System for Novice Pilots in Drone Racing Scenario
+	path = robotics and automation/icra/2024/A Trajectory-based Flight Assistive System for Novice Pilots in Drone Racing Scenario
 	url = git@github.com:ZJU-FAST-Lab/Assistive-Racing.git
 [submodule "icra/2024/Under Pressure: Learning-Based Analog Gauge Reading in the Wild"]
-	path = icra/2024/Under Pressure: Learning-Based Analog Gauge Reading in the Wild
+	path = robotics and automation/icra/2024/Under Pressure: Learning-Based Analog Gauge Reading in the Wild
 	url = git@github.com:ethz-asl/analog_gauge_reader.git
 [submodule "icra/2024/VLFM: Vision-Language Frontier Maps for Semantic Navigation"]
-	path = icra/2024/VLFM: Vision-Language Frontier Maps for Semantic Navigation
+	path = robotics and automation/icra/2024/VLFM: Vision-Language Frontier Maps for Semantic Navigation
 	url = git@github.com:bdaiinstitute/vlfm.git
 [submodule "icra/2024/CoFRIDA: Self-Supervised Fine-Tuning for Human-Robot Co-Painting"]
-	path = icra/2024/CoFRIDA: Self-Supervised Fine-Tuning for Human-Robot Co-Painting
+	path = robotics and automation/icra/2024/CoFRIDA: Self-Supervised Fine-Tuning for Human-Robot Co-Painting
 	url = git@github.com:cmubig/Frida.git
 [submodule "icra/2024/MateRobot: Material Recognition in Wearable Robotics for People with Visual Impairments"]
-	path = icra/2024/MateRobot: Material Recognition in Wearable Robotics for People with Visual Impairments
+	path = robotics and automation/icra/2024/MateRobot: Material Recognition in Wearable Robotics for People with Visual Impairments
 	url = git@github.com:JunweiZheng93/MATERobot.git
 [submodule "icra/2024/Efficient and Accurate Transformer-Based 3D Shape Completion and Reconstruction of Fruits for Agricultural Robots"]
-	path = icra/2024/Efficient and Accurate Transformer-Based 3D Shape Completion and Reconstruction of Fruits for Agricultural Robots
+	path = robotics and automation/icra/2024/Efficient and Accurate Transformer-Based 3D Shape Completion and Reconstruction of Fruits for Agricultural Robots
 	url = git@github.com:PRBonn/TCoRe.git
 [submodule "icra/2024/CalliRewrite: Recovering Handwriting Behaviors from Calligraphy Images without Supervision"]
-	path = icra/2024/CalliRewrite: Recovering Handwriting Behaviors from Calligraphy Images without Supervision
+	path = robotics and automation/icra/2024/CalliRewrite: Recovering Handwriting Behaviors from Calligraphy Images without Supervision
 	url = git@github.com:LoYuXr/CalliRewrite.git
 [submodule "icra/2024/Universal Visual Decomposer: Long-Horizon Manipulation Made Easy"]
-	path = icra/2024/Universal Visual Decomposer: Long-Horizon Manipulation Made Easy
+	path = robotics and automation/icra/2024/Universal Visual Decomposer: Long-Horizon Manipulation Made Easy
 	url = git@github.com:zcczhang/UVD.git
 [submodule "icra/2024/SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking"]
-	path = icra/2024/SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking
+	path = robotics and automation/icra/2024/SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking
 	url = git@github.com:aron-lin/seqtrack3d.git
 [submodule "icra/2024/Co-Design Optimisation of Morphing Topology and Control of Winged Drones"]
-	path = icra/2024/Co-Design Optimisation of Morphing Topology and Control of Winged Drones
+	path = robotics and automation/icra/2024/Co-Design Optimisation of Morphing Topology and Control of Winged Drones
 	url = git@github.com:ami-iit/paper_bergonti_2024_icra_codesign-morphing-drones.git
 [submodule "icra/2024/FC-Planner: A Skeleton-guided Planning Framework for Fast Aerial Coverage of Complex 3D Scenes"]
-	path = icra/2024/FC-Planner: A Skeleton-guided Planning Framework for Fast Aerial Coverage of Complex 3D Scenes
+	path = robotics and automation/icra/2024/FC-Planner: A Skeleton-guided Planning Framework for Fast Aerial Coverage of Complex 3D Scenes
 	url = git@github.com:HKUST-Aerial-Robotics/FC-Planner.git
 [submodule "icra/2024/Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality"]
-	path = icra/2024/Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality
+	path = robotics and automation/icra/2024/Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality
 	url = git@github.com:arplaboratory/mri_ros_public.git
 [submodule "icra/2023/DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation"]
-	path = icra/2023/DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation
+	path = robotics and automation/icra/2023/DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation
 	url = git@github.com:PKU-EPIC/DexGraspNet.git
 [submodule "icra/2023/Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation"]
-	path = icra/2023/Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation
+	path = robotics and automation/icra/2023/Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation
 	url = git@github.com:Alvinosaur/opa.git
 [submodule "icra/2023/Interactive Object Segmentation in 3D Point Clouds"]
-	path = icra/2023/Interactive Object Segmentation in 3D Point Clouds
+	path = robotics and automation/icra/2023/Interactive Object Segmentation in 3D Point Clouds
 	url = git@github.com:theodorakontogianni/InterObject3D.git
 [submodule "icra/2023/Learning-Based Initialization of Trajectory Optimization for Path-Following Problems of Redundant Manipulators"]
-	path = icra/2023/Learning-Based Initialization of Trajectory Optimization for Path-Following Problems of Redundant Manipulators
+	path = robotics and automation/icra/2023/Learning-Based Initialization of Trajectory Optimization for Path-Following Problems of Redundant Manipulators
 	url = git@github.com:MinsungYoon/RL-ITG.git
 [submodule "icra/2023/Grounding Language with Visual Affordances Over Unstructured Data"]
-	path = icra/2023/Grounding Language with Visual Affordances Over Unstructured Data
+	path = robotics and automation/icra/2023/Grounding Language with Visual Affordances Over Unstructured Data
 	url = git@github.com:mees/hulc2.git
 [submodule "icra/2023/GMCR: Graph-Based Maximum Consensus Estimation for Point Cloud Registration"]
-	path = icra/2023/GMCR: Graph-Based Maximum Consensus Estimation for Point Cloud Registration
+	path = robotics and automation/icra/2023/GMCR: Graph-Based Maximum Consensus Estimation for Point Cloud Registration
 	url = git@github.com:RoboTac-BMW/GMCR.git
 [submodule "icra/2023/FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment"]
-	path = icra/2023/FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment
+	path = robotics and automation/icra/2023/FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment
 	url = git@github.com:cmubig/Frida.git
 [submodule "siggraph/2022/CLIPasso: Semantically Aware Object Sketching"]
 	path = siggraph/2022/CLIPasso: Semantically Aware Object Sketching

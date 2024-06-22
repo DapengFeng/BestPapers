@@ -1,0 +1,88 @@
+<!-- src: https://www.ieee-ras.org/publications/ra-l/ra-l-paper-awards -->
+<article id="content-column-2" class="col-md-9 col-md-push-3">
+<div itemprop="articleBody">
+
+
+<h1>RA-L Paper Awards</h1>
+
+<h3><span style="font-size: 14px;">Each year, the RA-L Senior Volunteers (EiC, Deputy EiC, and Senior Editors) nominate and vote for the Best Paper(s) published online in the previous calendar year. The announcements are made at the IEEE International Conference on Robotics and Automation awards event. The winners and honorable mentions of the “RA-L Best Paper Award” for each previous year are listed below.</span></h3>
+<hr>
+<h2><strong>2022</strong></h2>
+<p><span style="text-decoration-line: underline;">Winners</span></p>
+<p>Karl Van Wyk, Mandy Xie, Anqi Li, Muhammad Asif Rana, Buck Babich, Bryan Peele, Qian Wan, Iretiayo Akinola, Balakumar Sundaralingam, Dieter Fox, Byron Boots, and Nathan D. Ratliff, <a href="https://ieeexplore.ieee.org/document/9682604" target="_blank" rel="noopener">"Geometric Fabrics: Generalizing Classical Mechanics to Capture the Physics of Behavior,"</a> in IEEE Robotics and Automation Letters, Volume 7, Issue 2, pages 3202-3209, April 2022</p>
+<p>Amy Kyungwon Han, Amar Hajj-Ahmad, and Mark R. Cutkosky, <a href="https://ieeexplore.ieee.org/document/9732638" target="_blank" rel="noopener">"Bimanual Handling of Deformable Objects With Hybrid Adhesion,"</a> in IEEE Robotics and Automation Letters, Volume 7, Issue 2, pages 5497-5503, April 2022</p>
+<p>Oier Mee, Lukas Hermann, Erick Rosete-Beas, and Wolfram Burgard, <a href="https://ieeexplore.ieee.org/document/9788026" target="_blank" rel="noopener">"CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks," </a>in IEEE Robotics and Automation Letters, Volume 7, Issue 3, pages 7327-7334, July 2022</p>
+<p>Minho Oh, Euigon Jung, Hyungtae Lim, Wonho Song, Sumin Hu, Eunchang Mason Lee, Junghee Park, Jaekyung Kim, Jangwoo Lee, and Hyun Myung,<a href="https://ieeexplore.ieee.org/document/9794594" target="_blank" rel="noopener">"TRAVEL: Traversable Ground and Above-Ground Object Segmentation Using Graph Representation of 3D LiDAR Scans,"</a> in IEEE Robotics and Automation Letters, Volume 7, Issue 3, pages 7255-7262, July 2022</p>
+<p>Hwayeong Jeong, Jirou Feng, and Jung Kim, <a href="https://ieeexplore.ieee.org/document/9925437" target="_blank" rel="noopener">"2.5D Laser-Cutting-Based Customized Fabrication of Long-Term Wearable Textile sEMG Sensor: From Design to Intention Recognition,"</a> in IEEE Robotics and Automation Letters, Volume 7, Issue 4, pages 10367-10374, October 2022</p>
+<p>&nbsp;</p>
+<p><span style="text-align: justify; text-decoration-line: underline;">Honorable Mentions</span></p>
+<p>Shubham Singh, Ryan P. Russell, and Patrick M. Wensing, "<a href="https://ieeexplore.ieee.org/document/9674779" target="_blank" rel="noopener">Efficient Analytical Derivatives of Rigid-Body Dynamics Using Spatial Vector Algebra</a>," in IEEE Robotics and Automation Letters, Volume 7, Issue 2, pages 1776-1783, April 2022</p>
+<p>Di Chen, Zhengxing Wu, Pengfei Zhang, Min Tan, and Junzhi Yu, <a href="https://ieeexplore.ieee.org/document/9681242" target="_blank" rel="noopener">"Performance Improvement of a High-Speed Swimming Robot for Fish-Like Leaping," </a>in IEEE Robotics and Automation Letters, Volume 7, Issue 2, pages 1936-1943, April 2022</p>
+<p>Xu Liu, Decai Li, and Yuqing He, <a href="https://ieeexplore.ieee.org/document/9721684" target="_blank" rel="noopener">"A Unified Framework for Large-Scale Occupancy Mapping and Terrain Modeling Using RMM,"</a> in IEEE Robotics and Automation Letters, Volume 7, Issue 2, pages 5143-5150, April 2022</p>
+<p>Marie Harder, Manuel Keppler, Xuming Meng, Christian Ott, Hannes Höppner, and Alexander Dietrich, <a href="https://ieeexplore.ieee.org/document/9779469" target="_blank" rel="noopener">"Simultaneous Motion Tracking and Joint Stiffness Control of Bidirectional Antagonistic Variable-Stiffness Actuators,"</a>&nbsp;in IEEE Robotics and Automation Letters, Volume 7, Issue 3, pages 6614-6621, July 2022</p>
+<p>David Cáceres Domínguez, Marco Iannotta, Johannes A. Stork, Erik Schaffernicht, and Todor Stoyanov, <a href="https://ieeexplore.ieee.org/document/9907864" target="_blank" rel="noopener">"A Stack-of-Tasks Approach Combined With Behavior Trees: A New Framework for Robot Control,"</a> in IEEE Robotics and Automation Letters, Volume 7, Issue 4, pages 12110-12117, October 2022</p>
+<div></div>
+<h2><strong>2021</strong></h2>
+<p><br><span style="text-decoration: underline;">Winners</span></p>
+<p>Sihao Sun; Giovanni Cioffi; Coen de Visser; Davide Scaramuzza, <a href="https://ieeexplore.ieee.org/document/9312462">"Autonomous Quadrotor Flight Despite Rotor Failure With Onboard Vision Sensors: Frames vs. Events," </a>in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 580-587, January 2021 (Online publication:&nbsp;01 January 2021)</p>
+<p>Anh-Dzung Doan, Yasir Latif, Tat-Jun Chin, Ian Reid, "<a href="https://ieeexplore.ieee.org/document/9250504">HM<sup>4</sup>: Hidden Markov Model With Memory Management for Visual Place Recognition</a>," in IEEE Robotics and Automation Letters, vol. 6, no. 1, pp. 167-174, January 2021 (Online publication:&nbsp;06 November 2020)</p>
+<p>David Bombara, Revanth Konda, Jun Zhang, "<a href="https://ieeexplore.ieee.org/document/9345383">Experimental Characterization and Modeling of the Self-Sensing Property in Compliant Twisted String Actuators</a>," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 974-981, April 2021 (Online publication:&nbsp;02 February 2021)</p>
+<p>Gregory P. Meyer, Jake Charland, Shreyash Pandey, Ankit Laddha; Shivam Gautam; Carlos Vallespi-Gonzalez; Carl K. Wellington, "<a href="https://ieeexplore.ieee.org/document/9310205">LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting</a>," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 526-533, April 2021. (Online publication:&nbsp;29 December 2020)</p>
+<p>Peizhi Zhang, Mitsuhiro Kamezaki, Zhuoyi He, Hiroyuki Sakamoto, Shigeki Sugano, "<a href="https://ieeexplore.ieee.org/document/9502558">EPM–MRE: Electropermanent Magnet–Magnetorheological Elastomer for Soft Actuation System and Its Application to Robotic Grasping</a>," in IEEE Robotics and Automation Letters, vol. 6, no. 4, pp. 8181-8188, July 2021 (Online publication:&nbsp;30 July 2021)</p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">Honorable Mentions</span></p>
+<p>Binbin Xu, Andrew J. Davison, Stefan Leutenegger, "<a href="https://ieeexplore.ieee.org/document/9264717">Deep Probabilistic Feature-Metric Tracking</a>," in IEEE Robotics and Automation Letters, vol. 6, no. 1, pp. 223-230, January 2021 (Online publication:&nbsp;19 November 2020)</p>
+<p>Letian Wang, Liting Sun, Masayoshi Tomizuka, Wei Zhan, "<a href="https://ieeexplore.ieee.org/document/9361150">Socially-Compatible Behavior Design of Autonomous Vehicles With Verification on Real Human Data</a>," in IEEE Robotics and Automation Letters, vol. 6, no. 2,&nbsp; pp. 3421-3428, April 2021 (Online publication: 23 February 2021)</p>
+<p>Keunhwan Kim, Jonghwi Kim, Jinwhan Kim, "<a href="https://ieeexplore.ieee.org/document/9444206">Robust Data Association for Multi-Object Detection in Maritime Environments Using Camera and Radar Measurements</a>," in IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 5865-5872, July 2021 (Online publication:&nbsp;28 May 2021)</p>
+<p>Di Wu, Yao Zhang, Mouloud Ourak, Kenan Niu, Jenny Dankelman, Emmanuel Vander Poorten, "<a href="https://ieeexplore.ieee.org/document/9360444">Hysteresis Modeling of Robotic Catheters Based on Long Short-Term Memory Network for Improved Environment Reconstruction</a>," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 2106-2113, February 2021&nbsp;(Online publication: 22 February 2021)</p>
+<p>Vishnu Dev Amara, Jörn Malzahn; Wesley Roozing, Nikos Tsagarakis, “<a href="https://ieeexplore.ieee.org/document/9360453">Blending of Series-Parallel Compliant Actuation With Field Weakening Control for Explosive Motion Generation</a>," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 2076-2083, April 2021 (Online Publication: 22 February 2021)</p>
+<hr>
+<h2><strong>2020</strong></h2>
+<p><br><span style="text-decoration: underline;">Winners</span></p>
+<p>G. Valsecchi, R. Grandia, and M. Hutter, "<a href="https://ieeexplore.ieee.org/document/8968320" target="_blank" rel="noopener">Quadrupedal Locomotion on Uneven Terrain With Sensorized Feet</a>," in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 1548-1555, April 2020&nbsp;(Online publication: 24 January 2020)</p>
+<p>K. Xu and N. Pérez-Arancibia, "<a href="https://ieeexplore.ieee.org/document/9121677" target="_blank" rel="noopener">Electronics-Free Logic Circuits for Localized Feedback Control of Multi-Actuator Soft Robots</a>," in IEEE Robotics and Automation Letters, vol. 5, no. 3, pp. 3990-3997, July 2020&nbsp;(Online publication: 23 March 2020)</p>
+<p>Y. Chen, N. Doshi, and R. Wood, "<a href="https://ieeexplore.ieee.org/document/9121677" target="_blank" rel="noopener">Inverted and Inclined Climbing Using Capillary Adhesion in a Quadrupedal Insect-Scale Robot</a>," in IEEE Robotics and Automation Letters, vol. 5, no. 3, pp. 4820-4827, July 2020.&nbsp;(Online publication: 19 June 2020)</p>
+<p>D. Morrison, P. Corke, and J. Leitner, "<a href="https://ieeexplore.ieee.org/document/9085936" target="_blank" rel="noopener">EGAD! An Evolved Grasping Analysis Dataset for Diversity and Reproducibility in Robotic Manipulation</a>," in IEEE Robotics and Automation Letters, vol. 5, no. 3, pp. 4368-4375, July 2020&nbsp;(Online publication: 13 May 2020)</p>
+<p>Z. Zhou, X. Chen, and O. Jenkins, "<a href="https://ieeexplore.ieee.org/document/9113653" target="_blank" rel="noopener">LIT: Light-Field Inference of Transparency for Refractive Object Localization</a>,“ in IEEE Robotics and Automation Letters, vol. 5, no. 3, pp. 4548-4555, July 2020.&nbsp;(Online publication:10 June 2020)</p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">Honorable Mentions</span></p>
+<p>H. Yang, P. Antonante, V. Tzoumas, and L. Carlone, "<a href="https://ieeexplore.ieee.org/document/8957085" target="_blank" rel="noopener">Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection</a>," in&nbsp;IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 1127-1134, April 2020&nbsp;&nbsp;(Online publication: 13 January 2020)</p>
+<p>P. Kornatowski, M. Feroskhan, W. Stewart, and D. Floreano, "<a href="https://ieeexplore.ieee.org/document/9091043" target="_blank" rel="noopener">A Morphing Cargo Drone for Safe Flight in Proximity of Humans</a>," in&nbsp;IEEE Robotics and Automation Letters, vol. 5, no. 3, pp. 4233-4240, July 2020.&nbsp;(Online publication: 11 May 2020)</p>
+<p>Y. Tian, A. Koppel, A. Bedi, and J. How, "<a href="https://ieeexplore.ieee.org/document/9143442" target="_blank" rel="noopener">Asynchronous and Parallel Distributed Pose Graph Optimization</a>," in&nbsp;IEEE Robotics and Automation Letters, vol. 5, no. 4, pp. 5819-5826, Oct. 2020.(Online publication: 17 July 2020)</p>
+<p>B. Rivière, W. Hönig, Y. Yue, and S. Chung, "<a href="https://ieeexplore.ieee.org/document/9091314" target="_blank" rel="noopener">GLAS: Global-to-Local Safe Autonomy Synthesis for Multi-Robot Motion Planning With End-to-End Learning</a>," in&nbsp;IEEE Robotics and Automation Letters, vol. 5, no. 3, pp. 4249-4256, July 2020.&nbsp;(Online publication: 11 May 2020)</p>
+<hr>
+<h2><strong>2019</strong></h2>
+<p><br><span style="text-decoration: underline;">Winners</span></p>
+<p>P. Florence, L. Manuelli, and R. Tedrake,&nbsp;"<a href="https://doi.org/10.1109/LRA.2019.2956365">Self-Supervised Correspondence in Visuomotor Policy Learning</a>," in&nbsp;IEEE Robotics and Automation Letters.&nbsp;vol. 5, no. 2, pp. 492-499, 2020. (Online publication: 28 November 2019)</p>
+<p>Y.-J. Kim, J. Yoon, and Y.-W. Sim,&nbsp;“<a href="https://doi.org/10.1109/LRA.2019.2929988">Fluid Lubricated Dexterous Finger Mechanism for Human-Like Impact Absorbing Capability</a>,” in&nbsp;IEEE Robotics and Automation Letters ,&nbsp;vol. 4, no. 4, pp. 3971-3978, 2019. (Online publication: 22 July 2019)</p>
+<p>T. Kislassi and D. Zarrouk, "<a href="https://doi.org/10.1109/LRA.2019.2959237">A Minimally Actuated Reconfigurable Continuous Track Robot</a>," in&nbsp;IEEE Robotics and Automation Letters,&nbsp;vol. 5, no. 2, pp. 652-659, 2020. (Online publication: 11 December 2019)</p>
+<p>N. Kuppuswamy, A. Castro, C. Phillips-Grafflin, A. Alspach, and R. Tedrake, “<a href="https://doi.org/10.1109/LRA.2019.2961050">Fast Model-Based Contact Patch and Pose Estimation for Highly Deformable Dense-Geometry Tactile Sensors</a>,” in&nbsp;IEEE Robotics and Automation Letters,&nbsp;vol. 5, no. 2, pp. 1811-1818, 2020. (Online publication: 19 December 2019)</p>
+<p>T. Ort, K. Murthy, R. Banerjee, S. K. Gottipati, D. Bhatt, I. Gilitschenski, L. Paull, and D. Rus,&nbsp;"<a href="https://doi.org/10.1109/LRA.2019.2961051">MapLite: Autonomous Intersection Navigation Without a Detailed Prior Map</a>," in&nbsp;IEEE Robotics and Automation Letters,&nbsp;vol. 5, no. 2, pp. 556-563, 2020. (Online publication: 19 December 2019.</p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;">Honorable Mentions</span>&nbsp;</p>
+<p>C. Della Santina and Daniela Rus, “<a href="https://doi.org/10.1109/LRA.2019.2955936">Control Oriented Modeling of Soft Robots: The Polynomial Curvature Case</a>,” in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 290-298, 2020. (Online publication: 26 November 2019)</p>
+<p>G. Shan, Z. Zhang, C. Dai, X. Wang, L.-T. Chu, Y. Sun, “<a href="https://doi.org/10.1109/LRA.2019.2952998">Model-Based Robotic Cell Aspiration: Tackling Nonlinear Dynamics and Varying Cell Sizes</a>,” in IEEE Robotics and Automation Letters<i>,&nbsp;</i>vol. 5, no. 1, pp. 173-178, 2020. (Online publication: 11 November 2019)</p>
+<p>J.-B. Weibel, T. Patten, and M. Vincze,&nbsp;“<a href="https://doi.org/10.1109/LRA.2019.2959497">Addressing the Sim2Real Gap in Robotic 3-D Object Classification</a>,” in&nbsp;IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 407-413, 2020. (Online publication: 12 December 2019)</p>
+<p>S. Zhou, H. Zhao, W. Chen, Z. Miao, Z. Liu, H. Wang and Y.-H. Liu, “<a href="https://doi.org/10.1109/LRA.2019.2956380">Robust Path Following of the Tractor-Trailers System in GPS-Denied Environments</a>,” in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 500-507, 2020. (Online publication: 29 November 2019)</p>
+<p>S. Itadera, E. Dean-Leon, J. Nakanishi, Y. Hasegawa, G. Cheng, “<a href="https://doi.org/10.1109/LRA.2019.2928770">Predictive Optimization of Assistive Force in Admittance Control-Based Physical Interaction for Robotic Gait Assistance</a>,” in IEEE Robotics and Automation Letters, vol. 4, no. 4, pp. 3609-3616, 2019. (Online publication: 15 July 2019)</p>
+<p>&nbsp;</p>
+<div><hr></div>
+<h2><strong>2018</strong></h2>
+<br>
+<p><span style="text-decoration: underline;">Winner</span></p>
+<p>B. Penin, P. R. Giordano, and F. Chaumette, "<a href="http://dx.doi.org/10.1109/LRA.2018.2856526">Vision-Based Reactive Planning for Aggressive Target Tracking While Avoiding Collisions and Occlusions</a>," in&nbsp;IEEE Robotics and&nbsp;Automation Letters, vol. 3, no. 4, pp. 3725-3732, Oct. 2018.</p>
+<p><span style="text-decoration-line: underline;">Honorable Mentions</span></p>
+<p>R. Calandra,&nbsp;A. Owens, D. Jayaraman, J. Lin, W. Yuan, J. Malik, E. H. Adelson, and S. Levine, "<a style="background-color: white;" href="http://dx.doi.org/10.1109/LRA.2018.2793357">More Than a Feeling: Learning to Grasp and Regrasp Using Vision and Touch</a>," in&nbsp;IEEE Robotics and Automation Letters, vol. 3, no. 4, pp. 3300-3307, Oct. 2018.</p>
+<div>A. R. Vidal, H. Rebecq, T. Horstschaefer and D. Scaramuzza, "<a href="http://dx.doi.org/10.1109/LRA.2018.2852779">Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High-Speed&nbsp;Scenarios</a>," in&nbsp;IEEE Robotics and Automation Letters, vol. 3, no. 2, pp. 994-1001, April 2018.</div>
+<div><hr></div>
+<h2><strong>2017&nbsp;</strong></h2>
+<p>&nbsp;<br><span style="text-decoration: underline;">Winner</span></p>
+<p>C. Garcia Cifuentes, J. Issac, M. Wüthrich, S. Schaal and J. Bohg, "<a href="http://dx.doi.org/10.1109/LRA.2016.2645124">Probabilistic Articulated Real-Time Tracking for Robot Manipulation</a>," in IEEE Robotics and Automation Letters, vol. 2,&nbsp;no. 2, pp. 577-584, April 2017. doi: 10.1109/LRA.2016.2645124</p>
+<hr>
+<h2><strong>2016 &nbsp;</strong></h2>
+<div>&nbsp;<br><span style="text-decoration: underline;">Winner:</span> &nbsp;</div>
+<p>T. Bartelds, A. Capra, S. Hamaza, S. Stramigioli and M. Fumagalli, "<a href="http://dx.doi.org/10.1109/LRA.2016.2519948">Compliant Aerial Manipulators: Toward a New Generation of Aerial Robotic Workers</a>," in IEEE Robotics and&nbsp;Automation Letters, vol. 1, no. 1, pp. 477-483, Jan. 2016.<br><br></p>
+<div><span style="text-decoration: underline;">Winner:</span> &nbsp;M. C. Yip and D. B. Camarillo, "<a href="http://dx.doi.org/10.1109/LRA.2016.2526062">Model-Less Hybrid Position/Force Control: A Minimalist Approach for Continuum Manipulators in Unknown, Constrained Environments</a>," in IEEE&nbsp;Robotics and Automation Letters, vol. 1, no. 2, pp. 844-851, July 2016.<br><br></div> 
+          
+
+<div class="clearfix"></div></div></article>
