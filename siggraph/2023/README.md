@@ -52,7 +52,7 @@
 <!-- <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="fluid-width-video-wrapper" style="padding-top: 56.2963%;"><iframe title="SIGGRAPH 2023 Technical Papers Trailer" src="https://www.youtube.com/embed/VBZ2sDxvZQE?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" name="fitvid0"></iframe></div>
 </div></figure> -->
-[![](https://img.youtube.com/vi/VBZ2sDxvZQE/0.jpg)](https://www.youtube.com/embed/VBZ2sDxvZQE?feature=oembed)
+[![](https://img.youtube.com/vi/VBZ2sDxvZQE/maxresdefault.jpg)](https://www.youtube.com/embed/VBZ2sDxvZQE?feature=oembed)
 
 
 

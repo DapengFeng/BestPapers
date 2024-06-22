@@ -1,11 +1,16 @@
+<!-- src: https://www.ieee-ras.org/publications/t-ro -->
+<div itemprop="articleBody">
+
+
+<h1>IEEE Transactions on Robotics (T-RO)</h1>
 <h2><strong style="font-size: 16pt; font-family: helvetica;">IEEE Transactions on Robotics King-Sun Fu Memorial Best Paper Award</strong></h2>
 <p><span style="font-family: helvetica;"><span style="font-weight: bold;">2023:&nbsp;</span>"</span><span style="font-family: helvetica;"><span><span style="font-family: 'Open Sans', Arial, Helvetica, sans-serif;">RACER: Rapid Collaborative Exploration with a Decentralized Multi-UAV System</span>"&nbsp;&nbsp;<br></span><span>by&nbsp;Boyu Zhou, Hao Xu, and Shaojie Shen</span>&nbsp;<br></span><span style="font-family: helvetica;">vol. 39, no. 3, pp. 1816-1835, June 2023, [<a href="https://ieeexplore.ieee.org/document/10038280" target="_blank" rel="noopener">Xplore Link</a>]</span></p>
 <div id="accordion" class="panel-group">
 <div class="panel panel-default">
 <div id="headingOne" class="panel-heading">
-<h4 class="panel-title"><a href="#collapse2023" data-toggle="collapse" data-parent="#accordion" class="">Honorable Mention</a></h4>
+<h4 class="panel-title"><a href="#collapse2023" data-toggle="collapse" data-parent="#accordion">Honorable Mention</a></h4>
 </div>
-<div id="collapse2023" class="panel-collapse collapse in" style="">
+<div id="collapse2023" class="panel-collapse collapse in">
 <div class="panel-body">
 <p style="padding-left: 30px;">"Global Planning for Contact-Rich Manipulation via Local Smoothing of Quasi-dynamic Contact Models" [<a href="https://ieeexplore.ieee.org/document/10225433" target="_blank" rel="noopener">Xplore Link</a>]</p>
 <p style="padding-left: 30px;">"Grasp it Like a Pro 2.0: A Data-Driven Approach Exploiting Basic Shapes Decomposition and Human Data for Grasping Unknown Objects" [<a href="https://ieeexplore.ieee.org/document/10169891" target="_blank" rel="noopener">Xplore Link</a>]</p>
@@ -20,9 +25,9 @@
 <div id="accordion" class="panel-group">
 <div class="panel panel-default">
 <div id="headingOne" class="panel-heading">
-<h4 class="panel-title"><a href="#collapse2022" data-toggle="collapse" data-parent="#accordion" class="collapsed">Honorable Mention</a></h4>
+<h4 class="panel-title"><a href="#collapse2022" data-toggle="collapse" data-parent="#accordion">Honorable Mention</a></h4>
 </div>
-<div id="collapse2022" class="panel-collapse collapse" style="height: 0px;">
+<div id="collapse2022" class="panel-collapse collapse">
 <div class="panel-body">
 <p style="padding-left: 30px;">"Stabilization of Complementarity Systems via Contact-Aware Controllers"&nbsp;&nbsp;<span style="font-family: helvetica;">[<a href="https://ieeexplore.ieee.org/abstract/document/9614168" target="_blank" rel="noopener">Xplore Link</a>]</span></p>
 <p style="padding-left: 30px;">"Autonomous Cave Surveying With an Aerial Robot"&nbsp;&nbsp;<span style="font-family: helvetica;">[<a href="https://ieeexplore.ieee.org/abstract/document/9536757" target="_blank" rel="noopener">Xplore Link</a>]</span></p>
@@ -38,7 +43,7 @@
 <div id="accordion" class="panel-group">
 <div class="panel panel-default">
 <div id="headingOne" class="panel-heading">
-<h4 class="panel-title"><a href="#collapse2021" data-toggle="collapse" data-parent="#accordion" class="collapsed">Honorable Mention</a></h4>
+<h4 class="panel-title"><a href="#collapse2021" data-toggle="collapse" data-parent="#accordion">Honorable Mention</a></h4>
 </div>
 <div id="collapse2021" class="panel-collapse collapse">
 <div class="panel-body">
@@ -56,7 +61,7 @@
 <div id="accordion" class="panel-group">
 <div class="panel panel-default">
 <div id="headingTwo" class="panel-heading">
-<h4 class="panel-title"><a href="#collapse2020" data-toggle="collapse" data-parent="#accordion" class="collapsed">Honorable Mention</a></h4>
+<h4 class="panel-title"><a href="#collapse2020" data-toggle="collapse" data-parent="#accordion">Honorable Mention</a></h4>
 </div>
 <div id="collapse2020" class="panel-collapse collapse">
 <div class="panel-body">
@@ -74,7 +79,7 @@
 <div id="accordion" class="panel-group">
 <div class="panel panel-default">
 <div id="headingThree" class="panel-heading">
-<h4 class="panel-title"><a href="#collapse2018" data-toggle="collapse" data-parent="#accordion" class="collapsed">Honorable Mention</a></h4>
+<h4 class="panel-title"><a href="#collapse2018" data-toggle="collapse" data-parent="#accordion">Honorable Mention</a></h4>
 </div>
 <div id="collapse2018" class="panel-collapse collapse">
 <div class="panel-body">
@@ -107,4 +112,7 @@
 </div>
 </div>
 </div>
-</div>
+</div> 
+          
+
+<div class="clearfix"></div></div>

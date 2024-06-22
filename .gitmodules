@@ -157,3 +157,39 @@
 [submodule "icra/2023/FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment"]
 	path = icra/2023/FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment
 	url = git@github.com:cmubig/Frida.git
+[submodule "siggraph/2022/CLIPasso: Semantically Aware Object Sketching"]
+	path = siggraph/2022/CLIPasso: Semantically Aware Object Sketching
+	url = git@github.com:yael-vinker/CLIPasso.git
+[submodule "siggraph/2022/Instant Neural Graphics Primitives with a Multiresolution Hash Encoding"]
+	path = siggraph/2022/Instant Neural Graphics Primitives with a Multiresolution Hash Encoding
+	url = git@github.com:NVlabs/instant-ngp.git
+[submodule "siggraph/2022/Spelunking the Deep: Guaranteed Queries on General Neural Implicit Surfaces"]
+	path = siggraph/2022/Spelunking the Deep: Guaranteed Queries on General Neural Implicit Surfaces
+	url = git@github.com:nmwsharp/neural-implicit-queries.git
+[submodule "siggraph/2022/DeepPhase: Periodic Autoencoders for Learning Motion Phase Manifolds"]
+	path = siggraph/2022/DeepPhase: Periodic Autoencoders for Learning Motion Phase Manifolds
+	url = git@github.com:sebastianstarke/AI4Animation.git
+[submodule "siggraph/2022/Joint Neural Phase Retrieval and Compression for Energy- and Computation-efficient Holography on the Edge"]
+	path = siggraph/2022/Joint Neural Phase Retrieval and Compression for Energy- and Computation-efficient Holography on the Edge
+	url = git@github.com:HoloCompress/DPRC.git
+[submodule "siggraph/2022/Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape With Unstructured Flash Photography"]
+	path = siggraph/2022/Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape With Unstructured Flash Photography
+	url = git@github.com:KAIST-VCLAB/SparseEllipsometry.git
+[submodule "siggraph/2022/Computational Design of High-level Interlocking Puzzles"]
+	path = siggraph/2022/Computational Design of High-level Interlocking Puzzles
+	url = git@github.com:Linsanity81/High-LevelPuzzle.git
+[submodule "siggraph/2022/Umbrella Meshes: Volumetric Elastic Mechanisms for Freeform Shape Deployment"]
+	path = siggraph/2022/Umbrella Meshes: Volumetric Elastic Mechanisms for Freeform Shape Deployment
+	url = git@github.com:EPFL-LGG/UmbrellaMesh_release_v1.git
+[submodule "siggraph/2022/Sketch2Pose: Estimating a 3D Character Pose From a Bitmap Sketch"]
+	path = siggraph/2022/Sketch2Pose: Estimating a 3D Character Pose From a Bitmap Sketch
+	url = git@github.com:kbrodt/sketch2pose.git
+[submodule "siggraph/2022/Towards Practical Physical-optics Rendering"]
+	path = siggraph/2022/Towards Practical Physical-optics Rendering
+	url = git@github.com:ssteinberg/mitsuba.git
+[submodule "siggraph/2022/Free2CAD: Parsing Freehand Drawings Into CAD Commands"]
+	path = siggraph/2022/Free2CAD: Parsing Freehand Drawings Into CAD Commands
+	url = git@github.com:Enigma-li/Free2CAD.git
+[submodule "siggraph/2022/Grid-free Monte Carlo for PDEs With Spatially Varying Coefficients"]
+	path = siggraph/2022/Grid-free Monte Carlo for PDEs With Spatially Varying Coefficients
+	url = git@github.com:rohan-sawhney/zombie.git
