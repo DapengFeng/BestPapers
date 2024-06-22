@@ -1,3 +1,60 @@
+<!-- src: https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/ -->
+
+<div class="et_pb_row et_pb_row_0_tb_body dbdb_default_mobile_width">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body  et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+
+
+<div class="et_pb_module et_pb_post_title et_pb_post_title_0_tb_body et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+
+
+
+<div class="et_pb_title_container">
+<h1 class="entry-title">SIGGRAPH 2023 Technical Papers Awards: Best Papers, Honorable Mentions, and Test-of-Time</h1><p class="et_pb_title_meta_container"> by <span class="author vcard"><a href="https://blog.siggraph.org/author/mmanghera/" title="Posts by SIGGRAPH Conferences" rel="author">SIGGRAPH Conferences</a></span> | <span class="published">6 July 2023</span> | <a href="https://blog.siggraph.org/category/conferences/" rel="category tag">Conferences</a>, <a href="https://blog.siggraph.org/category/research/" rel="category tag">Research</a></p>
+</div>
+
+</div><div class="et_pb_module et_pb_image et_pb_image_0_tb_body">
+
+
+
+
+<span class="et_pb_image_wrap "><img fetchpriority="high" decoding="async" width="850" height="480" src="https://blog.siggraph.org/wp-content/uploads/2023/07/Blog-Header-1.png" alt="" title="Blog Header (1)" srcset="https://blog.siggraph.org/wp-content/uploads/2023/07/Blog-Header-1.png 850w, https://blog.siggraph.org/wp-content/uploads/2023/07/Blog-Header-1-300x169.png 300w, https://blog.siggraph.org/wp-content/uploads/2023/07/Blog-Header-1-768x434.png 768w, https://blog.siggraph.org/wp-content/uploads/2023/07/Blog-Header-1-640x361.png 640w" sizes="(max-width: 850px) 100vw, 850px" class="wp-image-16492"></span>
+<div id="pac_dih__image_details_0" class="pac_dih__image_details "></div></div>
+<div class="et_pb_module et_pb_post_content et_pb_post_content_0_tb_body">
+
+
+
+
+
+<p class="has-text-align-right"><em>Image credit: “Split-Lohmann Multifocal Displays”</em> <em><em>© </em>3D scene model courtesy of “Entity Designer” on Blender Market under “Royalty free license” (See: https://blendermarket.com/products/dark-interior-scene)</em></p>
+
+
+
+<p>The <a href="https://s2023.siggraph.org/program/technical-papers/" target="_blank" rel="noreferrer noopener">Technical Papers program</a> has been at the core of SIGGRAPH since the very first conference 50 years ago. It is the premier international venue for disseminating and discussing innovative scholarly work in animation, simulation, imaging, geometry, modeling, rendering, human-computer interaction, haptics, fabrication, robotics, visualization, audio, optics, programming languages, immersive experiences, and machine learning for visual computing to name a few.</p>
+
+
+
+<p>Following on the success of SIGGRAPH 2022, SIGGRAPH 2023 accepted submissions to two integrated paper tracks: Journal (<em>ACM Transactions on Graphics</em>) and Conference. Additionally, SIGGRAPH 2023 is continuing the new tradition of awards for Best Papers and Honorable Mentions. These papers were selected for their research prominence and new contributions to the future of research in computer graphics and interactive techniques.</p>
+
+
+
+<p>SIGGRAPH 2023 Technical Papers Chair Alla Sheffer is thrilled to highlight these award-winning papers and thanks the selection committee who chose the Best Papers and Honorable Mentions out of a pool of hundreds.</p>
+
+
+
+<p>Learn more about the Best Papers and Honorable Mentions below, and get ready to explore what’s next in research at SIGGRAPH 2023. Plus, learn more about the new ACM SIGGRAPH award, Test-of-Time, and its recipients. But first, check out the SIGGRAPH 2023 Technical Papers Trailer! </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="fluid-width-video-wrapper" style="padding-top: 56.2963%;"><iframe title="SIGGRAPH 2023 Technical Papers Trailer" src="https://www.youtube.com/embed/VBZ2sDxvZQE?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" name="fitvid0"></iframe></div>
+</div></figure>
+
+
+
 <h2 class="wp-block-heading"><strong>Best Papers</strong></h2>
 
 
@@ -215,3 +272,33 @@
 
 
 <p><em>Jack M. Wang, Samuel R. Hamner, Scott L. Delp, Vladlen Koltun</em><em></em></p>
+
+
+
+<p><em>Thank you to Jehee Lee for gathering information about the Test-of-Time Awards. </em></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity">
+
+
+
+<p><em><a href="https://s2023.siggraph.org/register/" target="_blank" rel="noreferrer noopener">Register for SIGGRAPH 2023</a>, taking place 6–10 August in Los Angeles, to access the best of the best scholarly research in computer graphics and interactive techniques. Don’t miss a moment of Technical Papers excellence. <a href="https://s2023.siggraph.org/full-program/?filter1=sstype101" target="_blank" rel="noreferrer noopener">Visit the full program</a> to begin adding Technical Papers sessions to your schedule, and be sure to attend the <a href="https://s2023.siggraph.org/full-program/?filter1=sstype128" target="_blank" rel="noreferrer noopener">Papers Fast Forward</a> on Sunday, 6 August at 6 pm PDT.</em></p>
+
+</div><div class="et_pb_module et_pb_post_title et_pb_post_title_1_tb_body post-meta-tags et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+
+
+
+<div class="et_pb_title_container">
+
+<p class="et_pb_title_meta_container"><span class="dbdb_posttitle_tags_separator">   </span><span class="dbdb_posttitle_tags"><a href="https://blog.siggraph.org/tag/alla-sheffer/" rel="tag">Alla Sheffer</a> <a href="https://blog.siggraph.org/tag/research/" rel="tag">Research</a> <a href="https://blog.siggraph.org/tag/siggraph-2023/" rel="tag">SIGGRAPH 2023</a> <a href="https://blog.siggraph.org/tag/technical-papers/" rel="tag">Technical Papers</a> <a href="https://blog.siggraph.org/tag/technical-papers-awards/" rel="tag">Technical Papers awards</a></span></p></div>
+
+</div>
+</div>
+
+
+
+
+</div>

@@ -1,3 +1,53 @@
+<!-- src: https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/ -->
+<div class="et_pb_row et_pb_row_0_tb_body dbdb_default_mobile_width">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body  et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+
+
+<div class="et_pb_module et_pb_post_title et_pb_post_title_0_tb_body et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+
+
+
+<div class="et_pb_title_container">
+<h1 class="entry-title">SIGGRAPH 2024 Technical Papers Awards: Best Papers, Honorable Mentions, and Test-of-Time</h1><p class="et_pb_title_meta_container"> by <span class="author vcard"><a href="https://blog.siggraph.org/author/mmanghera/" title="Posts by SIGGRAPH Conferences" rel="author">SIGGRAPH Conferences</a></span> | <span class="published">18 June 2024</span> | <a href="https://blog.siggraph.org/category/conferences/" rel="category tag">Conferences</a>, <a href="https://blog.siggraph.org/category/research/" rel="category tag">Research</a></p>
+</div>
+
+</div><div class="et_pb_module et_pb_image et_pb_image_0_tb_body">
+
+
+
+
+<span class="et_pb_image_wrap "><img fetchpriority="high" decoding="async" width="850" height="480" src="https://blog.siggraph.org/wp-content/uploads/2024/06/2024-Tech-Papers-Awards.png" alt="" title="2024 Tech Papers Awards" srcset="https://blog.siggraph.org/wp-content/uploads/2024/06/2024-Tech-Papers-Awards.png 850w, https://blog.siggraph.org/wp-content/uploads/2024/06/2024-Tech-Papers-Awards-480x271.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" class="wp-image-18165"></span>
+<div id="pac_dih__image_details_0" class="pac_dih__image_details "></div></div>
+<div class="et_pb_module et_pb_post_content et_pb_post_content_0_tb_body">
+
+
+
+
+
+<p class="has-text-align-right"><em>Image credit: “From Microfacets to Participating Media: A Unified Theory of Light Transport With Stochastic Geometry” © 2024</em> <em>Dario Seyb, Eugene d’Eon, Benedikt Bitterli, Wojciech Jarosz</em></p>
+
+
+
+<p>The <a href="https://s2024.siggraph.org/program/technical-papers/">Technical Papers program</a> is a core element of the SIGGRAPH conference. It is the premier international venue for disseminating and discussing innovative scholarly work in animation, simulation, imaging, geometry, modeling, rendering, human-computer interaction, haptics, fabrication, robotics, visualization, audio, optics, programming languages, immersive experiences, and machine learning for visual computing to name a few. SIGGRAPH 2024 presents a special opportunity of the conference’s return to Colorado for the first time since its 1974 inception, where some of computer graphics’ most pivotal research was initially shared.</p>
+
+
+
+<p>Following on the success of SIGGRAPH 2022 and SIGGRAPH 2023, SIGGRAPH 2024 accepted submissions to two integrated paper tracks: Journal (<em>ACM Transactions on Graphics</em>) and Conference. Additionally, SIGGRAPH 2024 continues the tradition of awards for Best Papers and Honorable Mentions. These papers were selected for their research prominence and new contributions to the future of research in computer graphics and interactive techniques.</p>
+
+
+
+<p>SIGGRAPH 2024 Technical Papers Chair Denis Zorin is proud to highlight these award-winning papers and thanks the selection committee who chose the Best Papers and Honorable Mentions out of a pool of hundreds.</p>
+
+
+
+<p>Learn more about the Best Papers, Honorable Mentions, and Test-of-Time awardees below, get ready to explore what’s next in research at SIGGRAPH 2024.</p>
+
+
+
 <h2 class="wp-block-heading">Best Papers</h2>
 
 
@@ -190,7 +240,7 @@
 
 
 
-<p><em>Andreas Velten, Di Wu, Adrián Jarabo, Belén Masiá, Christopher Barsi, Chinmaya Joshi, Everett Lawson, Moungi Bawendi, Diego Gutierrez, Ramesh Raskar</em></p>
+<p><em>Andreas Velten, Di Wu, Adrián Jarabo, Belén Masiá, Christopher Barsi, Chinmaya Joshi, Everett Lawson, Moungi Bawendi, Diego Gutiérrez, Ramesh Raskar</em></p>
 
 
 
@@ -215,3 +265,29 @@
 
 
 <p><em>Mathias Eitz, James Hays, Marc Alexa</em></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity">
+
+
+
+<p><a href="https://s2024.siggraph.org/register/"><em>Register for SIGGRAPH 2024</em></a><em>, taking place 28 July–1 August in Denver, to access the best of the best scholarly research in computer graphics and interactive techniques. </em><a href="https://s2024.conference-program.org/?event_type=sstype101"><em>View the full program</em></a><em> to begin adding Technical Papers sessions to your schedule, and be sure to attend the Papers Fast Forward on Sunday, 28 July at 6 pm MDT.</em></p>
+
+</div><div class="et_pb_module et_pb_post_title et_pb_post_title_1_tb_body post-meta-tags et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+
+
+
+<div class="et_pb_title_container">
+
+<p class="et_pb_title_meta_container"><span class="dbdb_posttitle_tags_separator">   </span><span class="dbdb_posttitle_tags"><a href="https://blog.siggraph.org/tag/denis-zorin/" rel="tag">Denis Zorin</a> <a href="https://blog.siggraph.org/tag/research/" rel="tag">Research</a> <a href="https://blog.siggraph.org/tag/siggraph-2024/" rel="tag">SIGGRAPH 2024</a> <a href="https://blog.siggraph.org/tag/technical-papers/" rel="tag">Technical Papers</a> <a href="https://blog.siggraph.org/tag/technical-papers-awards/" rel="tag">Technical Papers awards</a></span></p></div>
+
+</div>
+</div>
+
+
+
+
+</div>
