@@ -154,3 +154,6 @@
 [submodule "icra/2023/GMCR: Graph-Based Maximum Consensus Estimation for Point Cloud Registration"]
 	path = icra/2023/GMCR: Graph-Based Maximum Consensus Estimation for Point Cloud Registration
 	url = git@github.com:RoboTac-BMW/GMCR.git
+[submodule "icra/2023/FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment"]
+	path = icra/2023/FRIDA: A Collaborative Robot Painter with a Differentiable, Real2Sim2Real Planning Environment
+	url = git@github.com:cmubig/Frida.git
