@@ -226,3 +226,33 @@
 [submodule "computer vision/iccv/2021/Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"]
 	path = computer vision/iccv/2021/Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 	url = git@github.com:microsoft/Swin-Transformer.git
+[submodule "computer vision/iccv/2019/PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility"]
+	path = computer vision/iccv/2019/PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility
+	url = git@github.com:timduff35/PLMP.git
+[submodule "computer vision/iccv/2019/SinGAN: Learning a Generative Model from a Single Natural Image"]
+	path = computer vision/iccv/2019/SinGAN: Learning a Generative Model from a Single Natural Image
+	url = git@github.com:tamarott/SinGAN.git
+[submodule "computer vision/iccv/2019/Specifying Object Attributes and Relations in Interactive Scene Generation"]
+	path = computer vision/iccv/2019/Specifying Object Attributes and Relations in Interactive Scene Generation
+	url = git@github.com:ashual/scene_generation.git
+[submodule "computer vision/iccv/2019/Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation"]
+	path = computer vision/iccv/2019/Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation
+	url = git@github.com:jihanyang/AFN.git
+[submodule "computer vision/iccv/2019/Deep Hough Voting for 3D Object Detection in Point Clouds"]
+	path = computer vision/iccv/2019/Deep Hough Voting for 3D Object Detection in Point Clouds
+	url = git@github.com:facebookresearch/votenet.git
+[submodule "computer vision/iccv/2019/Unsupervised Deep Learning for Structured Shape Matching"]
+	path = computer vision/iccv/2019/Unsupervised Deep Learning for Structured Shape Matching
+	url = git@github.com:LIX-shape-analysis/SURFMNet.git
+[submodule "computer vision/iccv/2019/Gated2Depth: Real-time Dense Lidar from Gated Images"]
+	path = computer vision/iccv/2019/Gated2Depth: Real-time Dense Lidar from Gated Images
+	url = git@github.com:gruberto/Gated2Depth.git
+[submodule "computer vision/iccv/2019/Local Aggregation for Unsupervised Learning of Visual Embeddings"]
+	path = computer vision/iccv/2019/Local Aggregation for Unsupervised Learning of Visual Embeddings
+	url = git@github.com:neuroailab/LocalAggregation.git
+[submodule "computer vision/iccv/2019/Robust Change Captioning"]
+	path = computer vision/iccv/2019/Robust Change Captioning
+	url = git@github.com:Seth-Park/RobustChangeCaptioning.git
+[submodule "computer vision/iccv/2019/Habitat: A Platform for Embodied AI Research"]
+	path = computer vision/iccv/2019/Habitat: A Platform for Embodied AI Research
+	url = git@github.com:facebookresearch/habitat-lab.git
